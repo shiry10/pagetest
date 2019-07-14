@@ -1,6 +1,7 @@
 
 let h1str = '没 想 到 吧 没 想 到 吧 ';
 
+
 document.querySelector('h1').textContent = h1str;
 
 document.querySelector('img').onclick = function(){
